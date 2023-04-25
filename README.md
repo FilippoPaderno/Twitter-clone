@@ -2,6 +2,6 @@
 
 ## Gruppo: Holban, Paderno, Zanotti
 
-## Tecnologie utilizzate: React.js, Next.js, MongoDB and Tailwind CSS
+## Tecnologie utilizzate: React.js, Firebase
 
-Clone del social Twitter con diverse funzionalità come creare il proprio profilo twitter, postare tweet, mettere like ai tweet ecc.
+Clone del social Twitter con diverse funzionalità come postare un tweet, postare un immagine, visualizzare gli ultimi tweet...
